@@ -7,7 +7,6 @@
     7
     8
     9
-<<<<<<< HEAD
     10
     a
     b
@@ -36,4 +35,3 @@ weverervererbberbe
     vrb34
     3g3
     g
->>>>>>> main
