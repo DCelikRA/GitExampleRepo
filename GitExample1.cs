@@ -19,4 +19,9 @@
     i
     j
     k
-    l
+    lc, d
+    m
+    n
+    o
+    p
+    q
